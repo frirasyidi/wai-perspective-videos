@@ -43,7 +43,7 @@ everyone in a variety of situations.
 {:#film.no-display}
 
 {% include video-player-data.html
-    video-name="captions"
+    video-id="captions"
     yt-id="iWO5N3n1DXU"
     yt-id-ad="4qIordU8vT8"
 %}
