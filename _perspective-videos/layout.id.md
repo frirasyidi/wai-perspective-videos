@@ -91,7 +91,7 @@ Desain struktur yang jelas, baik secara visual mau pun dengan menggunakan markah
     -   [Kriteria Sukses terkait "tata letak"](https://www.w3.org/WAI/WCAG21/quickref/?tags=layout)
 -   **Tutorial:**
     -   [Struktur Halaman - Tutorial Aksesibilitas Web](/tutorials/page-structure/)
-        (draf)
+        (rancangan)
 
 ## Transkripsi dan Deskripsi Visual {#transcript}
 
