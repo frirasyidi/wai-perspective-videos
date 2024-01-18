@@ -76,7 +76,7 @@ Desain struktur yang jelas, baik secara visual mau pun dengan menggunakan markah
 
 -   **Prinsip Aksesibilitas:**
     -   [Pengguna bisa menavigasi, mencari konten, dan menentukan di mana dia berada](/fundamentals/accessibility-principles/#navigable)
-    -   [Konten muncul dan beroperasi dengan cara yang dapat diprediksi](/fundamentals/accessibility-principles/#predictable)
+    -   [Konten muncul dan beroperasi dengan cara yang bisa diprediksi](/fundamentals/accessibility-principles/#predictable)
 -   **Memulai:**
     -   [Sediakan opsi navigasi yang konsisten dan jelas](/tips/designing/#provide-clear-and-consistent-navigation-options)
     -   [Pastikan elemen interaktif mudah diidentifikasi](/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify)

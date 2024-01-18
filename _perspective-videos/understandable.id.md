@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
-title: "Konten yang Dapat Dimengerti"
-nav_title: "Konten yang Dapat Dimengerti"
+title: "Konten yang Bisa Dimengerti"
+nav_title: "Konten yang Bisa Dimengerti"
 lang: id    # Change "en" to the translated-language shortcode
 last_updated: 2023-11-21    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 9
@@ -23,7 +23,7 @@ resource:
 
 acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 
-description: Video singkat tentang konten yang dapat dimengerti untuk aksesibilitas web - apa itu, siapa yang membutuhkannya, dan apa yang perlu dilakukan agar bekerja dengan semestinya.
+description: Video singkat tentang konten yang bisa dimengerti untuk aksesibilitas web - apa itu, siapa yang membutuhkannya, dan apa yang perlu dilakukan agar bekerja dengan semestinya.
 image: /perspective-videos/img/understandable.jpg
 
 # In the footer below:
@@ -40,7 +40,7 @@ footer: >
 
 Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi semua orang. Pelajari tentang dampak aksesibilitas dan manfaatnya bagi semua orang dalam berbagai situasi.
 
-## Video tentang Konten yang Dapat Dimengerti
+## Video tentang Konten yang Bisa Dimengerti
 {:#film.no-display}
 
 {% include video-player-data.html
@@ -54,7 +54,7 @@ Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi
 
 Informasi video ini tersedia sebagai [Transkripsi dan Deskripsi Visual](#transcript) di bawah.
 
-Apa itu "Konten yang Dapat Dimengerti"? {#what}
+Apa itu "Konten yang Bisa Dimengerti"? {#what}
 ---------------------------------
 
 Konten harus mudah diikuti dan dimengerti oleh banyak pengguna. Untuk sebagian besar konten, ini berarti menghindari kalimat dan jargon yang terlalu rumit, serta menyediakan tata letak dan desain yang jelas. Untuk beberapa konten kompleks seperti informasi medis, informasi yang terpisah dan mudah dibaca mungkin diperlukan.
@@ -81,7 +81,7 @@ Pelajari lebih lanjut {#resources}
 ----------
 
 -   **Prinsip Aksesibilitas:**
-    -   [Informasi dan antarmuka yang dapat dimengerti](/fundamentals/accessibility-principles/#understandable)
+    -   [Informasi dan antarmuka yang bisa dimengerti](/fundamentals/accessibility-principles/#understandable)
 -   **Memulai:**
     -   [Jaga agar konten singkat, padat, dan jelas](/tips/writing/#keep-content-clear-and-concise)
     -   [Sediakan instruksi yang jelas](/tips/writing/#provide-clear-instructions)
@@ -110,9 +110,9 @@ Pelajari lebih lanjut {#resources}
   </thead>
   <tbody>
     <tr>
-      <td>Perspektif Aksesibilitas Web: Konten yang Dapat Dimengerti</td>
+      <td>Perspektif Aksesibilitas Web: Konten yang Bisa Dimengerti</td>
       <td>Perspektif Aksesibilitas Web:<br>
-        Konten yang Dapat Dimengerti</td>
+        Konten yang Bisa Dimengerti</td>
     </tr>
     <tr>
       <td>Dibanding mengatakan: &quot;Mengejawantahkan ujaran secara congkak menggunakan prosa bersintaksis muluk terang menetaskan rasa dugal&quot;,<br>
@@ -124,7 +124,7 @@ Pelajari lebih lanjut {#resources}
       <td>Mereka mencari kosa kata di kamus untuk memahami resepnya.</td>
     </tr>
     <tr>
-      <td>Hal ini membuat situs web tersebut sulit dan tidak menarik untuk digunakan bagi banyak orang, termasuk mereka yang bukan penutur asli, dan membuatnya tidak dapat digunakan oleh orang-orang dengan disabilitas kognitif dan kesulitan belajar.</td>
+      <td>Hal ini membuat situs web tersebut sulit dan tidak menarik untuk digunakan bagi banyak orang, termasuk mereka yang bukan penutur asli, dan membuatnya tidak bisa digunakan oleh orang-orang dengan disabilitas kognitif dan kesulitan belajar.</td>
       <td>Mereka bingung dan kesal dengan situs web tersebut.</td>
     </tr>
     <tr>
@@ -132,11 +132,11 @@ Pelajari lebih lanjut {#resources}
       <td>Mereka mencari dan menemukan situs memasak lain dengan teks dan ilustrasi yang lebih terstruktur.</td>
     </tr>
     <tr>
-      <td>Kunjungi w3.org/WAI/perspectives untuk informasi lebih lanjut terkait Konten yang Dapat Dimengerti</td>
+      <td>Kunjungi w3.org/WAI/perspectives untuk informasi lebih lanjut terkait Konten yang Bisa Dimengerti</td>
       <td>Kunjungi<br>
         w3.org/WAI/perspectives<br>
         untuk informasi lebih lanjut terkait<br>
-        Konten yang Dapat Dimengerti. <br>
+        Konten yang Bisa Dimengerti. <br>
         Logo Inisiatif Aksesibilitas Web W3C</td>
     </tr>
   </tbody>

@@ -57,7 +57,7 @@ Informasi video ini tersedia sebagai [Transkripsi dan Deskripsi Visual](#transcr
 ## Apa itu "Warna dengan Kontras yang Baik"?
 {:#what}
 
-Warna harus memiliki kontras yang cukup, misalnya, antara warna teks dan warna latar belakang (secara teknis disebut <em>rasio kontras pencahayaan</em>). Termasuk untuk teks pada gambar, ikon, dan tombol. Warna yang digunakan untuk menyampaikan informasi pada diagram, peta, dan jenis gambar lainnya juga harus dapat dibedakan.
+Warna harus memiliki kontras yang cukup, misalnya, antara warna teks dan warna latar belakang (secara teknis disebut <em>rasio kontras pencahayaan</em>). Termasuk untuk teks pada gambar, ikon, dan tombol. Warna yang digunakan untuk menyampaikan informasi pada diagram, peta, dan jenis gambar lainnya juga harus bisa dibedakan.
 
 ## Siapa yang membutuhkan fitur ini?
 {:#who}

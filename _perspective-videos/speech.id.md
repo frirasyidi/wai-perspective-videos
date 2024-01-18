@@ -70,13 +70,13 @@ Siapa yang membutuhkan fitur ini? {#who}
 Apa manfaat lainnya? {#others}
 ---------------------------------
 
--   Konten dapat dibacakan dengan lantang bagi orang yang tidak bisa membaca tulisan.
--   Konten dapat dibacakan untuk orang yang lebih memilih untuk mendengarkan, misalnya sambil melakukan beberapa kegiatan sekaligus.
+-   Konten bisa dibacakan dengan lantang bagi orang yang tidak bisa membaca tulisan.
+-   Konten bisa dibacakan untuk orang yang lebih memilih untuk mendengarkan, misalnya sambil melakukan beberapa kegiatan sekaligus.
 
 Apa yang perlu dilakukan agar ini bekerja dengan baik? {#action}
 --------------------------------------
 
-Gunakan markah HTML semantik untuk struktur seperti judul, paragraf, daftar, formulir, dan tabel. Memberikan alternatif teks untuk gambar, ikon, dan konten nonteks lainnya. Pastikan [kompatibilitas kibor](/perspective-videos/keyboard/), dan pastikan informasi teks dapat dimengerti tanpa konteks visualnya.
+Gunakan markah HTML semantik untuk struktur seperti judul, paragraf, daftar, formulir, dan tabel. Memberikan alternatif teks untuk gambar, ikon, dan konten nonteks lainnya. Pastikan [kompatibilitas kibor](/perspective-videos/keyboard/), dan pastikan informasi teks bisa dimengerti tanpa konteks visualnya.
 
 Pelajari lebih lanjut {#resources}
 ----------

@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
-title: "Teks yang Dapat Disesuaikan"
-nav_title: "Teks yang Dapat Disesuaikan"
+title: "Teks yang Bisa Disesuaikan"
+nav_title: "Teks yang Bisa Disesuaikan"
 lang: id    # Change "en" to the translated-language shortcode
 last_updated: 2023-11-20    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 7
@@ -23,7 +23,7 @@ resource:
 
 acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 
-description: Video singkat tentang teks yang dapat disesuaikan untuk aksesibilitas web - apa itu, siapa yang membutuhkannya, dan apa yang perlu dilakukan agar bekerja dengan semestinya.
+description: Video singkat tentang teks yang bisa disesuaikan untuk aksesibilitas web - apa itu, siapa yang membutuhkannya, dan apa yang perlu dilakukan agar bekerja dengan semestinya.
 image: /perspective-videos/img/customizable.jpg
 
 # In the footer below:
@@ -39,7 +39,7 @@ footer: >
 
 Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi semua orang. Pelajari tentang dampak aksesibilitas dan manfaatnya bagi semua orang dalam berbagai situasi.
 
-## Video tentang Teks yang Dapat Disesuaikan
+## Video tentang Teks yang Bisa Disesuaikan
 {:#film.no-display}
 
 {% include video-player-data.html
@@ -53,7 +53,7 @@ Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi
 
 Informasi video ini tersedia sebagai [Transkripsi dan Deskripsi Visual](#transcript) di bawah.
 
-Apa itu "Teks yang Dapat Disesuaikan"? {#what}
+Apa itu "Teks yang Bisa Disesuaikan"? {#what}
 ----------------------------
 
 Beberapa pengguna perlu bisa mengubah bagaimana teks ditampilkan agar
@@ -109,8 +109,8 @@ Pelajari lebih lanjut {#resources}
   </thead>
   <tbody>
     <tr>
-      <td>Perspektif Aksesibilitas Web: Teks yang Dapat Disesuaikan</td>
-      <td>Perspektif Aksesibilitas Web:<br>Teks yang Dapat Disesuaikan</td>
+      <td>Perspektif Aksesibilitas Web: Teks yang Bisa Disesuaikan</td>
+      <td>Perspektif Aksesibilitas Web:<br>Teks yang Bisa Disesuaikan</td>
     </tr>
     <tr>
       <td>Apa yang tepat bagi Anda belum tentu sesuai bagi orang berikutnya.</td>
@@ -133,11 +133,11 @@ Pelajari lebih lanjut {#resources}
       <td>Kembali ke kedua pria: Salah satu pria mengambil sepotong roti panggang dari pemanggang.</td>
     </tr>
     <tr>
-      <td>Kunjugi w3.org/WAI/perspectives untuk informasi lebih lanjut terkait Teks yang Dapat Disesuaikan</td>
+      <td>Kunjugi w3.org/WAI/perspectives untuk informasi lebih lanjut terkait Teks yang Bisa Disesuaikan</td>
       <td>Kunjungi<br>
         w3.org/WAI/perspectives<br>
         untuk informasi lebih lanjut terkait<br>
-        Teks yang Dapat Disesuaikan.<br>
+        Teks yang Bisa Disesuaikan.<br>
         Logo Inisiatif Aksesibilitas Web W3C</td>
     </tr>
   </tbody>

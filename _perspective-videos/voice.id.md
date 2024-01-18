@@ -58,7 +58,7 @@ Informasi video ini tersedia sebagai [Transkripsi dan Deskripsi Visual](#transcr
 Apa itu "Pengenalan Ucapan"? {#what}
 ----------------------------
 
-Pengenalan ucapan dapat digunakan untuk mendiktekan teks dalam bidang isian, serta menavigasi ke dan mengaktifkan tautan, tombol, dan kontrol lainnya. Sebagian besar komputer dan perangkat seluler saat ini memiliki fungsi pengenalan ucapan bawaan. Beberapa alat pengenalan ucapan memungkinkan kontrol penuh atas interaksi komputer, memungkinkan pengguna untuk menggulirkan layar, menyalin dan menempelkan teks, mengaktifkan menu, dan melakukan fungsi lainnya.
+Pengenalan ucapan bisa digunakan untuk mendiktekan teks dalam bidang isian, serta menavigasi ke dan mengaktifkan tautan, tombol, dan kontrol lainnya. Sebagian besar komputer dan perangkat seluler saat ini memiliki fungsi pengenalan ucapan bawaan. Beberapa alat pengenalan ucapan memungkinkan kontrol penuh atas interaksi komputer, memungkinkan pengguna untuk menggulirkan layar, menyalin dan menempelkan teks, mengaktifkan menu, dan melakukan fungsi lainnya.
 
 Siapa yang membutuhkan fitur ini? {#who}
 ----------------------------
@@ -70,22 +70,22 @@ Siapa yang membutuhkan fitur ini? {#who}
 Apa manfaat lainnya? {#others}
 ---------------------------------
 
--   Konten lebih dapat digunakan oleh orang-orang dengan keterbatasan sementara, seperti ketika patah lengan.
--   Konten lebih dapat digunakan oleh orang-orang yang lebih memilih berbicara daripada mengetik, misalnya saat melakukan beberapa tugak sekaligus.
+-   Konten lebih bisa digunakan oleh orang-orang dengan keterbatasan sementara, seperti ketika patah lengan.
+-   Konten lebih bisa digunakan oleh orang-orang yang lebih memilih berbicara daripada mengetik, misalnya saat melakukan beberapa tugak sekaligus.
 
 Apa yang perlu dilakukan agar ini bekerja dengan baik? {#action}
 --------------------------------------
 
-Konten harus dirancang dan dikode dengan benar sehingga dapat dikontrol melalui ucapan. [kompatibilitas kibor](/perspective-videos/keyboard/) adalah dasar untuk pengkodean tersebut. Selain itu, label dan pengidentifikasi untuk kontrol dalam kode program harus sesuai dengan presentasi visualnya, sehingga jelas perintah ucapan mana yang akan mengaktifkan suatu kontrol.
+Konten harus dirancang dan dikode dengan benar sehingga bisa dikontrol melalui ucapan. [kompatibilitas kibor](/perspective-videos/keyboard/) adalah dasar untuk pengkodean tersebut. Selain itu, label dan pengidentifikasi untuk kontrol dalam kode program harus sesuai dengan presentasi visualnya, sehingga jelas perintah ucapan mana yang akan mengaktifkan suatu kontrol.
 
 Pelajari lebih lanjut {#resources}
 ----------
 
 -   **Prinsip Aksesibilitas:**
     -   [Fungsionalitas tersedia melalui Kibor](/fundamentals/accessibility-principles/#keyboard)
-    -   [Konten muncul dan beroperasi dengan cara yang dapat diprediksi](/fundamentals/accessibility-principles/#predictable)
+    -   [Konten muncul dan beroperasi dengan cara yang bisa diprediksi](/fundamentals/accessibility-principles/#predictable)
 -   **Memulai:**
-    -   [Pastikan semua elemen interaktif dapat diakses melalui kibor](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
+    -   [Pastikan semua elemen interaktif bisa diakses melalui kibor](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
     -   [Sediakan makna untuk elemen interaktif yang nonstandar](/tips/developing/#provide-meaning-for-non-standard-interactive-elements)
     -   [Sediakan alternatif teks untuk gambar](/tips/designing/#include-image-and-media-alternatives-in-your-design)
 -   **Pengecekan Sederhana:**

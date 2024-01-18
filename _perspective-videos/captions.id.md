@@ -70,12 +70,12 @@ Siapa yang membutuhkan fitur ini? {#who}
 Apa manfaat lainnya? {#others}
 ---------------------------------
 
--   Konten dapat dikonsumsi di lingkungan bising di mana Anda tidak dapat mendengar audionya.
--   Konten dapat digunakan di lingkungan senyap di mana Anda tidak boleh mengaktifkan suara.
+-   Konten bisa dikonsumsi di lingkungan bising di mana Anda tidak dapat mendengar audionya.
+-   Konten bisa digunakan di lingkungan senyap di mana Anda tidak boleh mengaktifkan suara.
 -   Konten lebih mudah dimengerti dengan mendengar dan melihat suatu informasi, misalnya orang yang kurang fasih dalam bahasa yang diucapkan.
 -   Konten bisa dibaca alih-alih ditonton, yang lebih cepat dan mudah dilakukan bagi sebagian orang.
 -   Konten dalam bentuk teks, seperti berkas takarir dan transkripsi, diindeks dengan lebih baik oleh mesin pencarian.
--   Konten dapat dikonsumsi tanpa perlu mengunduh berkas video, misalnya untuk menghemat data di ponsel.
+-   Konten bisa dikonsumsi tanpa perlu mengunduh berkas video, misalnya untuk menghemat data di ponsel.
 
 Apa yang perlu dilakukan agar ini bekerja dengan baik? {#action}
 --------------------------------------

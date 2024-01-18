@@ -76,13 +76,13 @@ Apa manfaat lainnya? {#others}
 Apa yang perlu dilakukan agar ini bekerja dengan baik? {#action}
 --------------------------------------
 
-Gunakan bahasa yang jelas dan sederhana untuk membuat pesan eror yang lebih dapat dimengerti. Misalnya, jelaskan cara memperbaiki kesalahan. Berikan pesan konfirmasi ketika isian dikirimkan. Saat ada perubahan pada layar, seperti ketika ada konten baru yang ditambahkan, beri tahu pengguna akan perubahan tersebut.
+Gunakan bahasa yang jelas dan sederhana untuk membuat pesan eror yang lebih bisa dimengerti. Misalnya, jelaskan cara memperbaiki kesalahan. Berikan pesan konfirmasi ketika isian dikirimkan. Saat ada perubahan pada layar, seperti ketika ada konten baru yang ditambahkan, beri tahu pengguna akan perubahan tersebut.
 
 Pelajari lebih lanjut {#resources}
 ----------
 
 -   **Prinsip Aksesibilitas:**
-    -   [Konten muncul dan beroperasi dengan cara yang dapat diprediksi](/fundamentals/accessibility-principles/#predictable)
+    -   [Konten muncul dan beroperasi dengan cara yang bisa diprediksi](/fundamentals/accessibility-principles/#predictable)
     -   [Pengguna dibantu untuk menghindari dan memperbaiki kesalahan](/fundamentals/accessibility-principles/#tolerant)
 -   **Memulai:**
     -   [Sediakan instruksi yang jelas](/tips/writing/#provide-clear-instructions)
@@ -135,7 +135,7 @@ Pelajari lebih lanjut {#resources}
       <td>Pesan kesalahan berubah menjadi: &quot;Format tidak valid, format yang diperlukan adalah 'hari/bulan/tahun'&quot;.</td>
     </tr>
     <tr>
-      <td>Membuat situs web dan aplikasi yang dapat diprediksi dan dimengerti menjadikannya aksesibel bagi orang-orang dengan disabilitas kognitif dan belajar...<br></td>
+      <td>Membuat situs web dan aplikasi yang bisa diprediksi dan dimengerti menjadikannya aksesibel bagi orang-orang dengan disabilitas kognitif dan belajar...<br></td>
       <td>Seorang wanita mencoba masuk ke Wi-Fi sebuah kafe dan menerima pesan kesalahan yang tidak jelas.</td>
     </tr>
     <tr>

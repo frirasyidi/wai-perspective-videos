@@ -25,7 +25,7 @@ acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 
 description: Video singkat tentang kompatibilitas dengan kibor untuk aksesibilitas web - apa itu, siapa yang membutuhkannya, dan apa yang perlu dilakukan agar bekerja dengan semestinya.
 image: /perspective-videos/img/keyboard.jpg
-teaser_text: Semua fungsionalitas harus dapat digunakan melalui kibor. Artinya, pengguna dapat mengakses tautan, tombol, formulir, dan kontrol lainnya menggunakan tombol Tab dan tombol lainnya. Situs web seharusnya tidak memerlukan tetikus. Aksesibilitas kibor sangat penting bagi penyandang disabilitas dan bermanfaat bagi semua orang dalam berbagai situasi.
+teaser_text: Semua fungsionalitas harus bisa digunakan melalui kibor. Artinya, pengguna dapat mengakses tautan, tombol, formulir, dan kontrol lainnya menggunakan tombol Tab dan tombol lainnya. Situs web seharusnya tidak memerlukan tetikus. Aksesibilitas kibor sangat penting bagi penyandang disabilitas dan bermanfaat bagi semua orang dalam berbagai situasi.
 
 # In the footer below:
 # Do not change the dates
@@ -57,7 +57,7 @@ Informasi video ini tersedia sebagai [Transkripsi dan Deskripsi Visual](#transcr
 ## Apa itu "Kompatibilitas dengan Kibor"?
 {:#what}
 
-Semua fungsionalitas harus dapat digunakan dengan kibor. Artinya, pengguna dapat mengakses dan berpindah antar tautan, tombol, formulir, dan kontrol lainnya menggunakan tombol Tab dan tombol lainnya. Situs web seharusnya tidak memerlukan tetikus; misalnya, pengguna seharusnya bisa mengetikkan tanggal pada sembulan kalender.
+Semua fungsionalitas harus bisa digunakan dengan kibor. Artinya, pengguna dapat mengakses dan berpindah antar tautan, tombol, formulir, dan kontrol lainnya menggunakan tombol Tab dan tombol lainnya. Situs web seharusnya tidak memerlukan tetikus; misalnya, pengguna seharusnya bisa mengetikkan tanggal pada sembulan kalender.
 
 ## Siapa yang membutuhkan fitur ini?
 {:#who}
@@ -82,7 +82,7 @@ Kontrol HTML natif, seperti tautan, tombol, dan elemen isian, dapat berfungsi de
 -   **Prinsip Aksesibilitas:**
     -   [Fungsionalitas tersedia melalui Kibor](/fundamentals/accessibility-principles/#keyboard)
 -   **Memulai:**
-    -   [Pastikan semua elemen interaktif dapat diakses melalui kibor](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
+    -   [Pastikan semua elemen interaktif bisa diakses melalui kibor](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
 -   **Pengecekan Sederhana:**
     -   [Akses kibor dan fokus visual](/test-evaluate/preliminary/#interaction)
 -   **User Story:**
@@ -134,7 +134,7 @@ Kontrol HTML natif, seperti tautan, tombol, dan elemen isian, dapat berfungsi de
       <td>Pria berkursi roda juga tidak dapat menggunakan situs tersebut.</td>
     </tr>
     <tr>
-      <td>Situs web dan aplikasi harus dapat dioperasikan dengan keyboard.</td>
+      <td>Situs web dan aplikasi harus bisa dioperasikan dengan keyboard.</td>
       <td>Dia beralih ke situs web lain yang memungkinkan pengetikan tanggal.</td>
     </tr>
     <tr>
